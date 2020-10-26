@@ -1,8 +1,7 @@
 # 📓 Number guessing 🕹️
 
 Number guessing is a guessing mini-game, in which the user chooses the limits and has a certain number of chances to try to hit the generated number.
-
-The code is in PORTUGUESE BR.
+### The code is in PORTUGUESE BRAZIL 🇧🇷 !!
 
 ## Usage
 
