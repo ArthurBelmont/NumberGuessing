@@ -15,3 +15,4 @@ Pull requests are welcome.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ### The code is in PORTUGUESE BRAZIL 🇧🇷 !!
+<span>&#x1f1e7;&#x1f1f7;</span>
